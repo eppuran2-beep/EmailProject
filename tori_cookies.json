@@ -1,0 +1,61 @@
+[
+  {
+    "name": "_pulse2data",
+    "value": "2a1b8c53-f122-4b88-bc03-e993d767db4d%2Cv%2C%2C1772307269000%2CeyJpc3N1ZWRBdCI6IjIwMjYtMDItMjFUMTk6MzQ6MjlaIiwiZW5jIjoiQTEyOENCQy1IUzI1NiIsInJlSXNzdWVkQXQiOiIyMDI2LTAyLTIxVDE5OjM0OjI5WiIsImFsZyI6ImRpciIsImtpZCI6IjMifQ..scTR-TQBvZ0GOOdtOh_RfA.5mNny4FMeg46FIKoz2qsZF86-izKJHR4OgdmQIx2BD7rTktNkam3PxqjnG_j0YZdQiGNrM66mntyrfgvKTIdC-jE0MirTonp_kMWTnxUkUBL4sgVTupzM77ILG_SFrgTIRQ-MtueSp-LL-wE3JO3VOShRTatjq_ifUM3O-7geq6eMjHf9QVx_-WitqryMM86yylBuxZBhBSPhv4N1pmpFgNxjULYOhUDs8R02FlgyTHhpvMLgbDWBSF-AhZG2tjNh_c4nqVIFnsowA2te0nFrWIfSkwDE4NjAJZyt01L8UDiKnlrIDZ225tDeS9tL4sga4qb-cPgnYHkBhOeewk4J182IySyqAqC4qt87yv3aGO1qUt8RfVg-Na-CJuOUzLUsSFWmF7PGG1hDD4ynEdwC1wzoAN2CZAaO7LdGcaN3cwFfuoGvtvl9G-lToeRcQMTrjDOXy94gPA0fVgkseb-PLetjaEn390_Oy4N5JiQTi-C-a6cqjaZJmYeA5tqMWBm-JLrSYH1r1o1K5gxquBh9keGdEbHcmElL8iXe38U4xvSSvtH7FWaz7KCV16yPPzZajfOpfqYI1-suOiNXaO4X3cp_JHyvq6A4s7g7H_7uVE.j7M9gU6wn1ALI8ltJGt_FA%2C%2C0%2Ctrue%2C%2C",
+    "domain": ".tori.fi",
+    "path": "/",
+    "expires": 1806262470.329951,
+    "size": 914,
+    "httpOnly": false,
+    "secure": true,
+    "session": false,
+    "sameSite": "None",
+    "priority": "Medium",
+    "sameParty": false,
+    "sourceScheme": "Secure"
+  },
+  {
+    "name": "_sp_su",
+    "value": "false",
+    "domain": ".tori.fi",
+    "path": "/",
+    "expires": 1803238469.78251,
+    "size": 11,
+    "httpOnly": false,
+    "secure": true,
+    "session": false,
+    "sameSite": "None",
+    "priority": "Medium",
+    "sameParty": false,
+    "sourceScheme": "Secure"
+  },
+  {
+    "name": "_gcl_au",
+    "value": "1.1.300770156.1771702470",
+    "domain": ".tori.fi",
+    "path": "/",
+    "expires": 1779478470,
+    "size": 31,
+    "httpOnly": false,
+    "secure": false,
+    "session": false,
+    "priority": "Medium",
+    "sameParty": false,
+    "sourceScheme": "Secure"
+  },
+  {
+    "name": "_pulsesession",
+    "value": "%5B%22sdrn%3Aschibsted%3Asession%3Ae5432bf7-14a6-4eab-9a94-aa29db45c308%22%2C1771702470331%2C1771702470331%5D",
+    "domain": ".tori.fi",
+    "path": "/",
+    "expires": 1771704270,
+    "size": 122,
+    "httpOnly": false,
+    "secure": true,
+    "session": false,
+    "sameSite": "None",
+    "priority": "Medium",
+    "sameParty": false,
+    "sourceScheme": "Secure"
+  }
+]

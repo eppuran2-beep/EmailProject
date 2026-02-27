@@ -1,0 +1,2473 @@
+{
+  "scannedAt": "2026-02-21T17:32:11.790Z",
+  "query": "DDR5 RAM",
+  "totalListings": 145,
+  "bargainsFound": 37,
+  "listings": [
+    {
+      "title": "CAMM 32gb ddr5 4800mhz",
+      "price": 100,
+      "url": "https://www.tori.fi/recommerce/forsale/item/35959575",
+      "specs": {
+        "capacityGB": 32,
+        "speed": 4800,
+        "speedTier": "base",
+        "sticks": null,
+        "type": "desktop"
+      },
+      "bargainScore": 95,
+      "pricePerGB": 3.1,
+      "location": "Helsinki, Siltamäki",
+      "date": "",
+      "toridiili": true
+    },
+    {
+      "title": "Kingston ValueRAM DDR5 RAM-muisti 32 Gt 5600 MHz",
+      "price": 175,
+      "url": "https://www.tori.fi/recommerce/forsale/item/37091944",
+      "specs": {
+        "capacityGB": 32,
+        "speed": 5600,
+        "speedTier": "mid",
+        "sticks": null,
+        "type": "desktop"
+      },
+      "bargainScore": 90,
+      "pricePerGB": 5.5,
+      "location": "Helsinki, Kannelmäki",
+      "date": "",
+      "toridiili": false
+    },
+    {
+      "title": "Käyttämätön samsung 16GB DDR5 Ram vain nouto",
+      "price": 80,
+      "url": "https://www.tori.fi/recommerce/forsale/item/36587204",
+      "specs": {
+        "capacityGB": 16,
+        "speed": null,
+        "speedTier": "base",
+        "sticks": null,
+        "type": "desktop"
+      },
+      "bargainScore": 90,
+      "pricePerGB": 5,
+      "location": "Kangasala",
+      "date": "",
+      "toridiili": false
+    },
+    {
+      "title": "DDR5 SODIMM RAM 16GB (2×8GB) 5600 MHz CL46 - SK hynix",
+      "price": 85,
+      "url": "https://www.tori.fi/recommerce/forsale/item/35826793",
+      "specs": {
+        "capacityGB": 16,
+        "speed": 5600,
+        "speedTier": "mid",
+        "sticks": 2,
+        "type": "laptop"
+      },
+      "bargainScore": 90,
+      "pricePerGB": 5.3,
+      "location": "Espoo, Etelä-Leppävaara",
+      "date": "",
+      "toridiili": true
+    },
+    {
+      "title": "DDR5 5600Mt/s SODIMM, Yht 16Gb",
+      "price": 80,
+      "url": "https://www.tori.fi/recommerce/forsale/item/36924862",
+      "specs": {
+        "capacityGB": 16,
+        "speed": 5600,
+        "speedTier": "mid",
+        "sticks": null,
+        "type": "laptop"
+      },
+      "bargainScore": 90,
+      "pricePerGB": 5,
+      "location": "",
+      "date": "",
+      "toridiili": true
+    },
+    {
+      "title": "DDR5 Ram-muisti 32Gt 6000Mhz RGB",
+      "price": 250,
+      "url": "https://www.tori.fi/recommerce/forsale/item/36780539",
+      "specs": {
+        "capacityGB": 32,
+        "speed": 6000,
+        "speedTier": "high",
+        "sticks": null,
+        "type": "desktop"
+      },
+      "bargainScore": 85,
+      "pricePerGB": 7.8,
+      "location": "Espoo, Laajalahti",
+      "date": "",
+      "toridiili": false
+    },
+    {
+      "title": "16GB DDR5 5600Mhz",
+      "price": 111,
+      "url": "https://www.tori.fi/recommerce/forsale/item/37305904",
+      "specs": {
+        "capacityGB": 16,
+        "speed": 5600,
+        "speedTier": "mid",
+        "sticks": null,
+        "type": "desktop"
+      },
+      "bargainScore": 85,
+      "pricePerGB": 6.9,
+      "location": "",
+      "date": "",
+      "toridiili": true
+    },
+    {
+      "title": "16gb [2x8gb] DDR5 sodimm 5600 MHz",
+      "price": 100,
+      "url": "https://www.tori.fi/recommerce/forsale/item/36856289",
+      "specs": {
+        "capacityGB": 16,
+        "speed": 5600,
+        "speedTier": "mid",
+        "sticks": 2,
+        "type": "laptop"
+      },
+      "bargainScore": 85,
+      "pricePerGB": 6.3,
+      "location": "",
+      "date": "",
+      "toridiili": true
+    },
+    {
+      "title": "DDR5 5600 sodimm 16GB kit (2*8GB)",
+      "price": 95,
+      "url": "https://www.tori.fi/recommerce/forsale/item/36230337",
+      "specs": {
+        "capacityGB": 16,
+        "speed": 5600,
+        "speedTier": "mid",
+        "sticks": null,
+        "type": "laptop"
+      },
+      "bargainScore": 85,
+      "pricePerGB": 5.9,
+      "location": "Espoo, Etelä-Leppävaara",
+      "date": "",
+      "toridiili": false
+    },
+    {
+      "title": "16gb ddr5 4800 sodimm [8gb x2]",
+      "price": 80,
+      "url": "https://www.tori.fi/recommerce/forsale/item/35969243",
+      "specs": {
+        "capacityGB": 16,
+        "speed": 4800,
+        "speedTier": "base",
+        "sticks": null,
+        "type": "laptop"
+      },
+      "bargainScore": 85,
+      "pricePerGB": 5,
+      "location": "",
+      "date": "",
+      "toridiili": true
+    },
+    {
+      "title": "Kingston Fury DDR5 CL30 2x16gb",
+      "price": 180,
+      "url": "https://www.tori.fi/recommerce/forsale/item/35508773",
+      "specs": {
+        "capacityGB": 32,
+        "speed": null,
+        "speedTier": "base",
+        "sticks": 2,
+        "type": "desktop"
+      },
+      "bargainScore": 85,
+      "pricePerGB": 5.6,
+      "location": "Helsinki, Länsi-Pasila",
+      "date": "",
+      "toridiili": false
+    },
+    {
+      "title": "Kingston 32GB (2 x 16GB) Fury Beast DDR5, 6000MHz, CL36, 1,35V",
+      "price": 290,
+      "url": "https://www.tori.fi/recommerce/forsale/item/37194058",
+      "specs": {
+        "capacityGB": 32,
+        "speed": 6000,
+        "speedTier": "high",
+        "sticks": 2,
+        "type": "desktop"
+      },
+      "bargainScore": 78,
+      "pricePerGB": 9.1,
+      "location": "Hämeenlinna",
+      "date": "",
+      "toridiili": true
+    },
+    {
+      "title": "Micron DDR5-muisti 32GB (2 x 16GB) DDR5 5600MHz, SO-DIMM, CL46",
+      "price": 200,
+      "url": "https://www.tori.fi/recommerce/forsale/item/37186471",
+      "specs": {
+        "capacityGB": 32,
+        "speed": 5600,
+        "speedTier": "mid",
+        "sticks": 2,
+        "type": "laptop"
+      },
+      "bargainScore": 78,
+      "pricePerGB": 6.3,
+      "location": "Vantaa, Kaivoksela",
+      "date": "",
+      "toridiili": true
+    },
+    {
+      "title": "2x8 Gb 5600 SO-DIMM DDR5",
+      "price": 110,
+      "url": "https://www.tori.fi/recommerce/forsale/item/36040797",
+      "specs": {
+        "capacityGB": 16,
+        "speed": 5600,
+        "speedTier": "mid",
+        "sticks": 2,
+        "type": "laptop"
+      },
+      "bargainScore": 78,
+      "pricePerGB": 6.9,
+      "location": "Helsinki, Käpylä",
+      "date": "",
+      "toridiili": true
+    },
+    {
+      "title": "Predator 16GB DDR5 5600 CL46 RAM-muisti",
+      "price": 150,
+      "url": "https://www.tori.fi/recommerce/forsale/item/37252447",
+      "specs": {
+        "capacityGB": 16,
+        "speed": 5600,
+        "speedTier": "mid",
+        "sticks": null,
+        "type": "desktop"
+      },
+      "bargainScore": 68,
+      "pricePerGB": 9.4,
+      "location": "Turku",
+      "date": "",
+      "toridiili": false
+    },
+    {
+      "title": "Acer Predator DDR5 RAM-muisti 16GB 5600MHz",
+      "price": 150,
+      "url": "https://www.tori.fi/recommerce/forsale/item/36900819",
+      "specs": {
+        "capacityGB": 16,
+        "speed": 5600,
+        "speedTier": "mid",
+        "sticks": null,
+        "type": "desktop"
+      },
+      "bargainScore": 68,
+      "pricePerGB": 9.4,
+      "location": "Tampere",
+      "date": "",
+      "toridiili": true
+    },
+    {
+      "title": "Samsung RAM-muisti 16 GB (2 x 8gb DDR5, 4800 MHz, SODIMM)",
+      "price": 100,
+      "url": "https://www.tori.fi/recommerce/forsale/item/34264219",
+      "specs": {
+        "capacityGB": 16,
+        "speed": 4800,
+        "speedTier": "base",
+        "sticks": 2,
+        "type": "laptop"
+      },
+      "bargainScore": 68,
+      "pricePerGB": 6.3,
+      "location": "Tampere",
+      "date": "",
+      "toridiili": true
+    },
+    {
+      "title": "Corsair Vengeance RGB DDR5 RAM 96GB 6000MHz",
+      "price": 850,
+      "url": "https://www.tori.fi/recommerce/forsale/item/34105431",
+      "specs": {
+        "capacityGB": 96,
+        "speed": 6000,
+        "speedTier": "high",
+        "sticks": null,
+        "type": "desktop"
+      },
+      "bargainScore": 68,
+      "pricePerGB": 8.9,
+      "location": "Espoo, Pohjois-Leppävaara",
+      "date": "",
+      "toridiili": true
+    },
+    {
+      "title": "Crucial DDR5 RAM 64GB 6400 MT/s (unopened)",
+      "price": 579,
+      "url": "https://www.tori.fi/recommerce/forsale/item/34105260",
+      "specs": {
+        "capacityGB": 64,
+        "speed": 6400,
+        "speedTier": "high",
+        "sticks": null,
+        "type": "desktop"
+      },
+      "bargainScore": 68,
+      "pricePerGB": 9,
+      "location": "Espoo, Pohjois-Leppävaara",
+      "date": "",
+      "toridiili": true
+    },
+    {
+      "title": "RAM-muistit 16GB DDR5 sodimm",
+      "price": 100,
+      "url": "https://www.tori.fi/recommerce/forsale/item/36163375",
+      "specs": {
+        "capacityGB": 16,
+        "speed": null,
+        "speedTier": "base",
+        "sticks": null,
+        "type": "laptop"
+      },
+      "bargainScore": 68,
+      "pricePerGB": 6.3,
+      "location": "Tampere",
+      "date": "",
+      "toridiili": true
+    },
+    {
+      "title": "Corsair Vengeance DDR5 RAM-muistit 48GB 7000 CL40 (2x 24GB)",
+      "price": 450,
+      "url": "https://www.tori.fi/recommerce/forsale/item/35862899",
+      "specs": {
+        "capacityGB": 48,
+        "speed": 7000,
+        "speedTier": "high",
+        "sticks": 2,
+        "type": "desktop"
+      },
+      "bargainScore": 68,
+      "pricePerGB": 9.4,
+      "location": "Espoo, Laajalahti",
+      "date": "",
+      "toridiili": false
+    },
+    {
+      "title": "Crucial DDR5 32gb (16GBx2) RAM (5600Mhz) kannettavaan tietokoneeseen",
+      "price": 220,
+      "url": "https://www.tori.fi/recommerce/forsale/item/34915302",
+      "specs": {
+        "capacityGB": 32,
+        "speed": 5600,
+        "speedTier": "mid",
+        "sticks": null,
+        "type": "laptop"
+      },
+      "bargainScore": 68,
+      "pricePerGB": 6.9,
+      "location": "Oulu",
+      "date": "",
+      "toridiili": false
+    },
+    {
+      "title": "DDR5 64GB (2 x 32GB) Kingston, 5600MHz, CL40",
+      "price": 490,
+      "url": "https://www.tori.fi/recommerce/forsale/item/37318589",
+      "specs": {
+        "capacityGB": 64,
+        "speed": 5600,
+        "speedTier": "mid",
+        "sticks": 2,
+        "type": "desktop"
+      },
+      "bargainScore": 68,
+      "pricePerGB": 7.7,
+      "location": "Oulu",
+      "date": "",
+      "toridiili": true
+    },
+    {
+      "title": "Kingston Fury Beast 32GB DDR5 6000Mhz CL36",
+      "price": 300,
+      "url": "https://www.tori.fi/recommerce/forsale/item/37230838",
+      "specs": {
+        "capacityGB": 32,
+        "speed": 6000,
+        "speedTier": "high",
+        "sticks": null,
+        "type": "desktop"
+      },
+      "bargainScore": 68,
+      "pricePerGB": 9.4,
+      "location": "Espoo, Henttaa",
+      "date": "",
+      "toridiili": false
+    },
+    {
+      "title": "Corsair Vengeance 96GB 96Gt (2x48GB 2x48Gt) DDR5 RGB 6000MHz",
+      "price": 838,
+      "url": "https://www.tori.fi/recommerce/forsale/item/37229086",
+      "specs": {
+        "capacityGB": 96,
+        "speed": 6000,
+        "speedTier": "high",
+        "sticks": 2,
+        "type": "desktop"
+      },
+      "bargainScore": 68,
+      "pricePerGB": 8.7,
+      "location": "Vantaa, Seutula",
+      "date": "",
+      "toridiili": false
+    },
+    {
+      "title": "Corsair VENGEANCE® 192GB (4x48GB) DDR5 DRAM 5200MT/s CL38",
+      "price": 1600,
+      "url": "https://www.tori.fi/recommerce/forsale/item/34716360",
+      "specs": {
+        "capacityGB": 192,
+        "speed": 5200,
+        "speedTier": "base",
+        "sticks": 4,
+        "type": "desktop"
+      },
+      "bargainScore": 68,
+      "pricePerGB": 8.3,
+      "location": "Helsinki, Länsi-Pasila",
+      "date": "",
+      "toridiili": true
+    },
+    {
+      "title": "DDR5 64Gb 6000 Mhz CL30 *Takuu*",
+      "price": 599,
+      "url": "https://www.tori.fi/recommerce/forsale/item/36926858",
+      "specs": {
+        "capacityGB": 64,
+        "speed": 6000,
+        "speedTier": "high",
+        "sticks": null,
+        "type": "desktop"
+      },
+      "bargainScore": 68,
+      "pricePerGB": 9.4,
+      "location": "Kuopio",
+      "date": "",
+      "toridiili": true
+    },
+    {
+      "title": "Kingston Fury Beast 2x16gb ddr5 6000MHz cl36 muistikammat",
+      "price": 320,
+      "url": "https://www.tori.fi/recommerce/forsale/item/36891905",
+      "specs": {
+        "capacityGB": 32,
+        "speed": 6000,
+        "speedTier": "high",
+        "sticks": 2,
+        "type": "desktop"
+      },
+      "bargainScore": 68,
+      "pricePerGB": 10,
+      "location": "",
+      "date": "",
+      "toridiili": true
+    },
+    {
+      "title": "Kingston Fury Beast 32GB DDR5 6000MHz CL36",
+      "price": 330,
+      "url": "https://www.tori.fi/recommerce/forsale/item/36771673",
+      "specs": {
+        "capacityGB": 32,
+        "speed": 6000,
+        "speedTier": "high",
+        "sticks": null,
+        "type": "desktop"
+      },
+      "bargainScore": 68,
+      "pricePerGB": 10.3,
+      "location": "Helsinki, Lauttasaari",
+      "date": "",
+      "toridiili": false
+    },
+    {
+      "title": "Corsair 96GB DDR5 6000MHz, CL36, 1.40V",
+      "price": 839,
+      "url": "https://www.tori.fi/recommerce/forsale/item/34039908",
+      "specs": {
+        "capacityGB": 96,
+        "speed": 6000,
+        "speedTier": "high",
+        "sticks": null,
+        "type": "desktop"
+      },
+      "bargainScore": 68,
+      "pricePerGB": 8.7,
+      "location": "Porvoo",
+      "date": "",
+      "toridiili": false
+    },
+    {
+      "title": "G.Skill Ripjaws M5 RGB 96 Gt (2 x 48 Gt) DDR5 6400 MHz, CL32",
+      "price": 800,
+      "url": "https://www.tori.fi/recommerce/forsale/item/36368193",
+      "specs": {
+        "capacityGB": 96,
+        "speed": 6400,
+        "speedTier": "high",
+        "sticks": 2,
+        "type": "desktop"
+      },
+      "bargainScore": 68,
+      "pricePerGB": 8.3,
+      "location": "Turku",
+      "date": "",
+      "toridiili": true
+    },
+    {
+      "title": "DDR5 16GB SODIMM",
+      "price": 100,
+      "url": "https://www.tori.fi/recommerce/forsale/item/36360274",
+      "specs": {
+        "capacityGB": 16,
+        "speed": null,
+        "speedTier": "base",
+        "sticks": null,
+        "type": "laptop"
+      },
+      "bargainScore": 68,
+      "pricePerGB": 6.3,
+      "location": "",
+      "date": "",
+      "toridiili": false
+    },
+    {
+      "title": "SODIMM DDR5 32Gb 2x16GB 5600MT/s",
+      "price": 230,
+      "url": "https://www.tori.fi/recommerce/forsale/item/35603632",
+      "specs": {
+        "capacityGB": 32,
+        "speed": 5600,
+        "speedTier": "mid",
+        "sticks": 2,
+        "type": "laptop"
+      },
+      "bargainScore": 68,
+      "pricePerGB": 7.2,
+      "location": "",
+      "date": "",
+      "toridiili": true
+    },
+    {
+      "title": "SO-DIMM DDR5 16GB",
+      "price": 100,
+      "url": "https://www.tori.fi/recommerce/forsale/item/35778812",
+      "specs": {
+        "capacityGB": 16,
+        "speed": null,
+        "speedTier": "base",
+        "sticks": null,
+        "type": "laptop"
+      },
+      "bargainScore": 68,
+      "pricePerGB": 6.3,
+      "location": "Hyvinkää",
+      "date": "",
+      "toridiili": false
+    },
+    {
+      "title": "Samsung 16GB (2x8GB) 4800MHz DDR5 SO-DIMM",
+      "price": 100,
+      "url": "https://www.tori.fi/recommerce/forsale/item/35768194",
+      "specs": {
+        "capacityGB": 16,
+        "speed": 4800,
+        "speedTier": "base",
+        "sticks": 2,
+        "type": "laptop"
+      },
+      "bargainScore": 68,
+      "pricePerGB": 6.3,
+      "location": "Hyvinkää",
+      "date": "",
+      "toridiili": true
+    },
+    {
+      "title": "Samsung DDR5 SoDIMM 4800 m425r1gb4bb0-v07 2x8GB",
+      "price": 100,
+      "url": "https://www.tori.fi/recommerce/forsale/item/35630126",
+      "specs": {
+        "capacityGB": 16,
+        "speed": 4800,
+        "speedTier": "base",
+        "sticks": 2,
+        "type": "laptop"
+      },
+      "bargainScore": 68,
+      "pricePerGB": 6.3,
+      "location": "Riihimäki",
+      "date": "",
+      "toridiili": false
+    },
+    {
+      "title": "Kingston 2x8 GB DDR5 4800 Mhz muistikammat",
+      "price": 120,
+      "url": "https://www.tori.fi/recommerce/forsale/item/35598527",
+      "specs": {
+        "capacityGB": 16,
+        "speed": 4800,
+        "speedTier": "base",
+        "sticks": 2,
+        "type": "desktop"
+      },
+      "bargainScore": 68,
+      "pricePerGB": 7.5,
+      "location": "",
+      "date": "",
+      "toridiili": true
+    },
+    {
+      "title": "Ddr5 ram 2x8gb(16gb) läppärille",
+      "price": 115,
+      "url": "https://www.tori.fi/recommerce/forsale/item/37276120",
+      "specs": {
+        "capacityGB": 16,
+        "speed": null,
+        "speedTier": "base",
+        "sticks": 2,
+        "type": "laptop"
+      },
+      "bargainScore": 55,
+      "pricePerGB": 7.2,
+      "location": "Jyväskylä",
+      "date": "",
+      "toridiili": false
+    },
+    {
+      "title": "Crucial Pro DDR5 RAM-muisti 32GB 6000MT/s",
+      "price": 350,
+      "url": "https://www.tori.fi/recommerce/forsale/item/36566613",
+      "specs": {
+        "capacityGB": 32,
+        "speed": 6000,
+        "speedTier": "high",
+        "sticks": null,
+        "type": "desktop"
+      },
+      "bargainScore": 55,
+      "pricePerGB": 10.9,
+      "location": "Helsinki, Pohjois-Haaga",
+      "date": "",
+      "toridiili": false
+    },
+    {
+      "title": "Dell 32Gt DDR5 5600 MHz SO-DIMM RAM-muisti",
+      "price": 250,
+      "url": "https://www.tori.fi/recommerce/forsale/item/36856613",
+      "specs": {
+        "capacityGB": 32,
+        "speed": 5600,
+        "speedTier": "mid",
+        "sticks": null,
+        "type": "laptop"
+      },
+      "bargainScore": 55,
+      "pricePerGB": 7.8,
+      "location": "Tampere",
+      "date": "",
+      "toridiili": true
+    },
+    {
+      "title": "Dell 32Gt DDR5 5600 MHz SO-DIMM RAM-muisti",
+      "price": 250,
+      "url": "https://www.tori.fi/recommerce/forsale/item/36856427",
+      "specs": {
+        "capacityGB": 32,
+        "speed": 5600,
+        "speedTier": "mid",
+        "sticks": null,
+        "type": "laptop"
+      },
+      "bargainScore": 55,
+      "pricePerGB": 7.8,
+      "location": "Tampere",
+      "date": "",
+      "toridiili": true
+    },
+    {
+      "title": "Corsair Vengeance DDR5 RAM-muisti 32GB 6400MHz AMD, CL36",
+      "price": 350,
+      "url": "https://www.tori.fi/recommerce/forsale/item/36740816",
+      "specs": {
+        "capacityGB": 32,
+        "speed": 6400,
+        "speedTier": "high",
+        "sticks": null,
+        "type": "desktop"
+      },
+      "bargainScore": 55,
+      "pricePerGB": 10.9,
+      "location": "Salo",
+      "date": "",
+      "toridiili": true
+    },
+    {
+      "title": "DDR5 RAM MEMORY 32GB CRUCIAL 6000 MTS",
+      "price": 350,
+      "url": "https://www.tori.fi/recommerce/forsale/item/36159466",
+      "specs": {
+        "capacityGB": 32,
+        "speed": 6000,
+        "speedTier": "high",
+        "sticks": null,
+        "type": "desktop"
+      },
+      "bargainScore": 55,
+      "pricePerGB": 10.9,
+      "location": "Helsinki, Pohjois-Haaga",
+      "date": "",
+      "toridiili": false
+    },
+    {
+      "title": "Corsair Vengeance RGB DDR5 32GB (2x16GB) 6000MHz valkoinen",
+      "price": 350,
+      "url": "https://www.tori.fi/recommerce/forsale/item/37312212",
+      "specs": {
+        "capacityGB": 32,
+        "speed": 6000,
+        "speedTier": "high",
+        "sticks": 2,
+        "type": "desktop"
+      },
+      "bargainScore": 55,
+      "pricePerGB": 10.9,
+      "location": "Tampere",
+      "date": "",
+      "toridiili": true
+    },
+    {
+      "title": "Läppärin muisti Samsung DDR5 16gb",
+      "price": 120,
+      "url": "https://www.tori.fi/recommerce/forsale/item/37263251",
+      "specs": {
+        "capacityGB": 16,
+        "speed": null,
+        "speedTier": "base",
+        "sticks": null,
+        "type": "laptop"
+      },
+      "bargainScore": 55,
+      "pricePerGB": 7.5,
+      "location": "Helsinki, Kallio",
+      "date": "",
+      "toridiili": false
+    },
+    {
+      "title": "16Gt DDR5 5600MHz So-Dimm muistikampa -SK Hynix",
+      "price": 140,
+      "url": "https://www.tori.fi/recommerce/forsale/item/37234173",
+      "specs": {
+        "capacityGB": 16,
+        "speed": 5600,
+        "speedTier": "mid",
+        "sticks": null,
+        "type": "laptop"
+      },
+      "bargainScore": 55,
+      "pricePerGB": 8.8,
+      "location": "Lohja",
+      "date": "",
+      "toridiili": true
+    },
+    {
+      "title": "Crucial 16GB (2 x 8GB) DDR5 5600MHz, CL46",
+      "price": 170,
+      "url": "https://www.tori.fi/recommerce/forsale/item/37217535",
+      "specs": {
+        "capacityGB": 16,
+        "speed": 5600,
+        "speedTier": "mid",
+        "sticks": 2,
+        "type": "desktop"
+      },
+      "bargainScore": 55,
+      "pricePerGB": 10.6,
+      "location": "",
+      "date": "",
+      "toridiili": true
+    },
+    {
+      "title": "32GB DDR5 6000MHz CL36 / Kingston FURY Beast RGB / Elinikäinen takuu",
+      "price": 369,
+      "url": "https://www.tori.fi/recommerce/forsale/item/34545357",
+      "specs": {
+        "capacityGB": 32,
+        "speed": 6000,
+        "speedTier": "high",
+        "sticks": null,
+        "type": "desktop"
+      },
+      "bargainScore": 55,
+      "pricePerGB": 11.5,
+      "location": "Lahti",
+      "date": "",
+      "toridiili": false
+    },
+    {
+      "title": "16Gt DDR5 5600MHz So-Dimm muistikampa -Samsung",
+      "price": 140,
+      "url": "https://www.tori.fi/recommerce/forsale/item/37190618",
+      "specs": {
+        "capacityGB": 16,
+        "speed": 5600,
+        "speedTier": "mid",
+        "sticks": null,
+        "type": "laptop"
+      },
+      "bargainScore": 55,
+      "pricePerGB": 8.8,
+      "location": "Lohja",
+      "date": "",
+      "toridiili": true
+    },
+    {
+      "title": "Kingston Fury Impact 64GB (2x32GB) 5600MHz DDR5 SODIMM",
+      "price": 450,
+      "url": "https://www.tori.fi/recommerce/forsale/item/37156274",
+      "specs": {
+        "capacityGB": 64,
+        "speed": 5600,
+        "speedTier": "mid",
+        "sticks": 2,
+        "type": "laptop"
+      },
+      "bargainScore": 55,
+      "pricePerGB": 7,
+      "location": "Kotka",
+      "date": "",
+      "toridiili": true
+    },
+    {
+      "title": "Corsair Vengeance 32 GB (2 x 16 GB) DDR5-5600 CL36",
+      "price": 295,
+      "url": "https://www.tori.fi/recommerce/forsale/item/37135180",
+      "specs": {
+        "capacityGB": 32,
+        "speed": 5600,
+        "speedTier": "mid",
+        "sticks": 2,
+        "type": "desktop"
+      },
+      "bargainScore": 55,
+      "pricePerGB": 9.2,
+      "location": "Oulu",
+      "date": "",
+      "toridiili": true
+    },
+    {
+      "title": "Samsung DDR5 16GB SO-DIMM",
+      "price": 120,
+      "url": "https://www.tori.fi/recommerce/forsale/item/37132732",
+      "specs": {
+        "capacityGB": 16,
+        "speed": null,
+        "speedTier": "base",
+        "sticks": null,
+        "type": "laptop"
+      },
+      "bargainScore": 55,
+      "pricePerGB": 7.5,
+      "location": "",
+      "date": "",
+      "toridiili": false
+    },
+    {
+      "title": "KINGSTON FURY BEAST 64GB (2X32) DDR5 6000MHZ",
+      "price": 650,
+      "url": "https://www.tori.fi/recommerce/forsale/item/37110104",
+      "specs": {
+        "capacityGB": 64,
+        "speed": 6000,
+        "speedTier": "high",
+        "sticks": null,
+        "type": "desktop"
+      },
+      "bargainScore": 55,
+      "pricePerGB": 10.2,
+      "location": "Espoo, Saunalahti",
+      "date": "",
+      "toridiili": false
+    },
+    {
+      "title": "32 GB 5600 MHz DDR5 SODIMM",
+      "price": 240,
+      "url": "https://www.tori.fi/recommerce/forsale/item/36835870",
+      "specs": {
+        "capacityGB": 32,
+        "speed": 5600,
+        "speedTier": "mid",
+        "sticks": null,
+        "type": "laptop"
+      },
+      "bargainScore": 55,
+      "pricePerGB": 7.5,
+      "location": "Tampere",
+      "date": "",
+      "toridiili": false
+    },
+    {
+      "title": "DDR5 2 x 48 GB 5600mhz Cruicial PRO",
+      "price": 790,
+      "url": "https://www.tori.fi/recommerce/forsale/item/34105485",
+      "specs": {
+        "capacityGB": 96,
+        "speed": 5600,
+        "speedTier": "mid",
+        "sticks": 2,
+        "type": "desktop"
+      },
+      "bargainScore": 55,
+      "pricePerGB": 8.2,
+      "location": "Vantaa, Jokiniemi",
+      "date": "",
+      "toridiili": false
+    },
+    {
+      "title": "G.Skill Ripjaws S5 DDR5 32GB 6400Mhz CL32 (2x16GB)",
+      "price": 350,
+      "url": "https://www.tori.fi/recommerce/forsale/item/36459577",
+      "specs": {
+        "capacityGB": 32,
+        "speed": 6400,
+        "speedTier": "high",
+        "sticks": 2,
+        "type": "desktop"
+      },
+      "bargainScore": 55,
+      "pricePerGB": 10.9,
+      "location": "",
+      "date": "",
+      "toridiili": false
+    },
+    {
+      "title": "Samsung 32GB (2 x 16GB) DDR5 5600MHz, SO-DIMM, CL46, 1.10V",
+      "price": 250,
+      "url": "https://www.tori.fi/recommerce/forsale/item/36402802",
+      "specs": {
+        "capacityGB": 32,
+        "speed": 5600,
+        "speedTier": "mid",
+        "sticks": 2,
+        "type": "laptop"
+      },
+      "bargainScore": 55,
+      "pricePerGB": 7.8,
+      "location": "",
+      "date": "",
+      "toridiili": true
+    },
+    {
+      "title": "32GB DDR5 6000MHz CL30 Corsair Vengeance RGB",
+      "price": 360,
+      "url": "https://www.tori.fi/recommerce/forsale/item/36267914",
+      "specs": {
+        "capacityGB": 32,
+        "speed": 6000,
+        "speedTier": "high",
+        "sticks": null,
+        "type": "desktop"
+      },
+      "bargainScore": 55,
+      "pricePerGB": 11.3,
+      "location": "Turku",
+      "date": "",
+      "toridiili": true
+    },
+    {
+      "title": "16Gt DDR5 4800MHz So-Dimm Sk-Hynix -muisti",
+      "price": 120,
+      "url": "https://www.tori.fi/recommerce/forsale/item/36128093",
+      "specs": {
+        "capacityGB": 16,
+        "speed": 4800,
+        "speedTier": "base",
+        "sticks": null,
+        "type": "laptop"
+      },
+      "bargainScore": 55,
+      "pricePerGB": 7.5,
+      "location": "Lohja",
+      "date": "",
+      "toridiili": false
+    },
+    {
+      "title": "G.SKILL DDR5 SO-DIMM 32GB (2x 16GB) 5200MHz",
+      "price": 220,
+      "url": "https://www.tori.fi/recommerce/forsale/item/36060349",
+      "specs": {
+        "capacityGB": 32,
+        "speed": 5200,
+        "speedTier": "base",
+        "sticks": 2,
+        "type": "laptop"
+      },
+      "bargainScore": 55,
+      "pricePerGB": 6.9,
+      "location": "",
+      "date": "",
+      "toridiili": false
+    },
+    {
+      "title": "2x 16gb sodimm ddr5 5600",
+      "price": 250,
+      "url": "https://www.tori.fi/recommerce/forsale/item/36041790",
+      "specs": {
+        "capacityGB": 32,
+        "speed": 5600,
+        "speedTier": "mid",
+        "sticks": 2,
+        "type": "laptop"
+      },
+      "bargainScore": 55,
+      "pricePerGB": 7.8,
+      "location": "",
+      "date": "",
+      "toridiili": true
+    },
+    {
+      "title": "Kingston FURY Renegade DDR5 6000 MHz CL32 64 Gt",
+      "price": 650,
+      "url": "https://www.tori.fi/recommerce/forsale/item/36023959",
+      "specs": {
+        "capacityGB": 64,
+        "speed": 6000,
+        "speedTier": "high",
+        "sticks": null,
+        "type": "desktop"
+      },
+      "bargainScore": 55,
+      "pricePerGB": 10.2,
+      "location": "Espoo, Kalajärvi",
+      "date": "",
+      "toridiili": false
+    },
+    {
+      "title": "Kingston FURY Beast DDR5 RGB EXPO 6400 MHz CL32 128Gt (4x32Gt)",
+      "price": 1300,
+      "url": "https://www.tori.fi/recommerce/forsale/item/35803558",
+      "specs": {
+        "capacityGB": 128,
+        "speed": 6400,
+        "speedTier": "high",
+        "sticks": 4,
+        "type": "desktop"
+      },
+      "bargainScore": 55,
+      "pricePerGB": 10.2,
+      "location": "",
+      "date": "",
+      "toridiili": false
+    },
+    {
+      "title": "Kingston 64GB (2 x 32GB) FURY Beast DDR5, 6000MHz, CL36",
+      "price": 650,
+      "url": "https://www.tori.fi/recommerce/forsale/item/35093876",
+      "specs": {
+        "capacityGB": 64,
+        "speed": 6000,
+        "speedTier": "high",
+        "sticks": 2,
+        "type": "desktop"
+      },
+      "bargainScore": 55,
+      "pricePerGB": 10.2,
+      "location": "Rauma",
+      "date": "",
+      "toridiili": true
+    },
+    {
+      "title": "Kingston Fury Beast DDR5 6000mhz CL40 32gb",
+      "price": 350,
+      "url": "https://www.tori.fi/recommerce/forsale/item/35462455",
+      "specs": {
+        "capacityGB": 32,
+        "speed": 6000,
+        "speedTier": "high",
+        "sticks": null,
+        "type": "desktop"
+      },
+      "bargainScore": 55,
+      "pricePerGB": 10.9,
+      "location": "Tuusula",
+      "date": "",
+      "toridiili": false
+    },
+    {
+      "title": "Crucial Pro 32GB DDR5 6000MHz CL36",
+      "price": 370,
+      "url": "https://www.tori.fi/recommerce/forsale/item/35180401",
+      "specs": {
+        "capacityGB": 32,
+        "speed": 6000,
+        "speedTier": "high",
+        "sticks": null,
+        "type": "desktop"
+      },
+      "bargainScore": 55,
+      "pricePerGB": 11.6,
+      "location": "Lahti",
+      "date": "",
+      "toridiili": false
+    },
+    {
+      "title": "G.Skill Trident Z5 Neo DDR5 (16GBx2) 6000MHz CL 30 RAM-muisti",
+      "price": 400,
+      "url": "https://www.tori.fi/recommerce/forsale/item/35674037",
+      "specs": {
+        "capacityGB": null,
+        "speed": 6000,
+        "speedTier": "high",
+        "sticks": null,
+        "type": "desktop"
+      },
+      "bargainScore": 50,
+      "pricePerGB": null,
+      "location": "Turku",
+      "date": "",
+      "toridiili": true
+    },
+    {
+      "title": "2x8 DDR5 5200Mhz Kingston Fury",
+      "price": 175,
+      "url": "https://www.tori.fi/recommerce/forsale/item/37319473",
+      "specs": {
+        "capacityGB": null,
+        "speed": 5200,
+        "speedTier": "base",
+        "sticks": null,
+        "type": "desktop"
+      },
+      "bargainScore": 50,
+      "pricePerGB": null,
+      "location": "Helsinki, Keskusta",
+      "date": "",
+      "toridiili": false
+    },
+    {
+      "title": "Myydään: Renegade DDR5-muistit, 7200MT/s, CL38. Uudet",
+      "price": 550,
+      "url": "https://www.tori.fi/recommerce/forsale/item/37066107",
+      "specs": {
+        "capacityGB": null,
+        "speed": 7200,
+        "speedTier": "high",
+        "sticks": null,
+        "type": "desktop"
+      },
+      "bargainScore": 50,
+      "pricePerGB": null,
+      "location": "Tampere",
+      "date": "",
+      "toridiili": false
+    },
+    {
+      "title": "Trident Z5 Neo RGB DDR5 2x32 6000MHz cl30",
+      "price": 595,
+      "url": "https://www.tori.fi/recommerce/forsale/item/36999845",
+      "specs": {
+        "capacityGB": null,
+        "speed": 6000,
+        "speedTier": "high",
+        "sticks": null,
+        "type": "desktop"
+      },
+      "bargainScore": 50,
+      "pricePerGB": null,
+      "location": "",
+      "date": "",
+      "toridiili": true
+    },
+    {
+      "title": "Corsair Vengeance DDR5 6200Mhz",
+      "price": 420,
+      "url": "https://www.tori.fi/recommerce/forsale/item/35775343",
+      "specs": {
+        "capacityGB": null,
+        "speed": 6200,
+        "speedTier": "high",
+        "sticks": null,
+        "type": "desktop"
+      },
+      "bargainScore": 50,
+      "pricePerGB": null,
+      "location": "Vantaa, Vantaanpuisto",
+      "date": "",
+      "toridiili": true
+    },
+    {
+      "title": "Acer Predator RAM-muisti DDR5 16gb",
+      "price": 160,
+      "url": "https://www.tori.fi/recommerce/forsale/item/37124489",
+      "specs": {
+        "capacityGB": 16,
+        "speed": null,
+        "speedTier": "base",
+        "sticks": null,
+        "type": "desktop"
+      },
+      "bargainScore": 45,
+      "pricePerGB": 10,
+      "location": "Tampere, Hervanta",
+      "date": "",
+      "toridiili": true
+    },
+    {
+      "title": "Samsung 16GB DDR5 RAM-muistit / 2 x 8GB / 4800MHz",
+      "price": 150,
+      "url": "https://www.tori.fi/recommerce/forsale/item/36527086",
+      "specs": {
+        "capacityGB": 16,
+        "speed": 4800,
+        "speedTier": "base",
+        "sticks": 2,
+        "type": "desktop"
+      },
+      "bargainScore": 45,
+      "pricePerGB": 9.4,
+      "location": "Kangasala",
+      "date": "",
+      "toridiili": true
+    },
+    {
+      "title": "DDR5 RAM-muisti 8GB",
+      "price": 60,
+      "url": "https://www.tori.fi/recommerce/forsale/item/36518167",
+      "specs": {
+        "capacityGB": 8,
+        "speed": null,
+        "speedTier": "base",
+        "sticks": null,
+        "type": "desktop"
+      },
+      "bargainScore": 45,
+      "pricePerGB": 7.5,
+      "location": "",
+      "date": "",
+      "toridiili": true
+    },
+    {
+      "title": "Kingston FURY DDR5 16GB (2x8GB) 5600MHz RAM muisti",
+      "price": 200,
+      "url": "https://www.tori.fi/recommerce/forsale/item/35547326",
+      "specs": {
+        "capacityGB": 16,
+        "speed": 5600,
+        "speedTier": "mid",
+        "sticks": 2,
+        "type": "desktop"
+      },
+      "bargainScore": 45,
+      "pricePerGB": 12.5,
+      "location": "Lappeenranta",
+      "date": "",
+      "toridiili": false
+    },
+    {
+      "title": "Corsair 32GB (2 x 16GB) Vengeance RGB, DDR5 6000MHz, CL30, 1.40V",
+      "price": 400,
+      "url": "https://www.tori.fi/recommerce/forsale/item/37349294",
+      "specs": {
+        "capacityGB": 32,
+        "speed": 6000,
+        "speedTier": "high",
+        "sticks": 2,
+        "type": "desktop"
+      },
+      "bargainScore": 45,
+      "pricePerGB": 12.5,
+      "location": "Rauma",
+      "date": "",
+      "toridiili": true
+    },
+    {
+      "title": "Kingston FURY Beast DDR5 6000 MHz CL36 32GB – 2v TAKKU",
+      "price": 389,
+      "url": "https://www.tori.fi/recommerce/forsale/item/37299806",
+      "specs": {
+        "capacityGB": 32,
+        "speed": 6000,
+        "speedTier": "high",
+        "sticks": null,
+        "type": "desktop"
+      },
+      "bargainScore": 45,
+      "pricePerGB": 12.2,
+      "location": "Vantaa, Mikkola",
+      "date": "",
+      "toridiili": true
+    },
+    {
+      "title": "Corsair Vengeance 32GB RGB DDR5 6000MHz",
+      "price": 410,
+      "url": "https://www.tori.fi/recommerce/forsale/item/37270785",
+      "specs": {
+        "capacityGB": 32,
+        "speed": 6000,
+        "speedTier": "high",
+        "sticks": null,
+        "type": "desktop"
+      },
+      "bargainScore": 45,
+      "pricePerGB": 12.8,
+      "location": "Espoo, Kauklahti",
+      "date": "",
+      "toridiili": false
+    },
+    {
+      "title": "32GB DDR5 6000MHz CL30 / Corsair Vengeance RGB / Takuu",
+      "price": 399,
+      "url": "https://www.tori.fi/recommerce/forsale/item/35851990",
+      "specs": {
+        "capacityGB": 32,
+        "speed": 6000,
+        "speedTier": "high",
+        "sticks": null,
+        "type": "desktop"
+      },
+      "bargainScore": 45,
+      "pricePerGB": 12.5,
+      "location": "Lahti",
+      "date": "",
+      "toridiili": false
+    },
+    {
+      "title": "corsair vengeance 32gb ddr5 6000mhz cl36",
+      "price": 380,
+      "url": "https://www.tori.fi/recommerce/forsale/item/37203429",
+      "specs": {
+        "capacityGB": 32,
+        "speed": 6000,
+        "speedTier": "high",
+        "sticks": null,
+        "type": "desktop"
+      },
+      "bargainScore": 45,
+      "pricePerGB": 11.9,
+      "location": "Vantaa, Martinlaakso",
+      "date": "",
+      "toridiili": true
+    },
+    {
+      "title": "Corsair 64GB (2 x 32GB) Vengeance, DDR5 5600MHz, CL40",
+      "price": 600,
+      "url": "https://www.tori.fi/recommerce/forsale/item/37191915",
+      "specs": {
+        "capacityGB": 64,
+        "speed": 5600,
+        "speedTier": "mid",
+        "sticks": 2,
+        "type": "desktop"
+      },
+      "bargainScore": 45,
+      "pricePerGB": 9.4,
+      "location": "Espoo, Matinkylä",
+      "date": "",
+      "toridiili": true
+    },
+    {
+      "title": "Kingston FURY Beast 2x16GB DDR5 5600 CL36",
+      "price": 350,
+      "url": "https://www.tori.fi/recommerce/forsale/item/34650771",
+      "specs": {
+        "capacityGB": 32,
+        "speed": 5600,
+        "speedTier": "mid",
+        "sticks": 2,
+        "type": "desktop"
+      },
+      "bargainScore": 45,
+      "pricePerGB": 10.9,
+      "location": "Joensuu",
+      "date": "",
+      "toridiili": false
+    },
+    {
+      "title": "DDR5 32Gb CL30 6000Mhz Corsair Vengeance",
+      "price": 410,
+      "url": "https://www.tori.fi/recommerce/forsale/item/37150304",
+      "specs": {
+        "capacityGB": 32,
+        "speed": 6000,
+        "speedTier": "high",
+        "sticks": null,
+        "type": "desktop"
+      },
+      "bargainScore": 45,
+      "pricePerGB": 12.8,
+      "location": "Espoo, Saunalahti",
+      "date": "",
+      "toridiili": false
+    },
+    {
+      "title": "Kingston 32gb DDR5-4800 CL38 262-Pin SODIMM (XMP)",
+      "price": 250,
+      "url": "https://www.tori.fi/recommerce/forsale/item/37071726",
+      "specs": {
+        "capacityGB": 32,
+        "speed": 4800,
+        "speedTier": "base",
+        "sticks": null,
+        "type": "laptop"
+      },
+      "bargainScore": 45,
+      "pricePerGB": 7.8,
+      "location": "Hämeenlinna",
+      "date": "",
+      "toridiili": true
+    },
+    {
+      "title": "Patriot Viper Xtreme 5 RGB 32 Gt (2x16 Gt) DDR5 8000 MHz, CL38",
+      "price": 390,
+      "url": "https://www.tori.fi/recommerce/forsale/item/37030704",
+      "specs": {
+        "capacityGB": 32,
+        "speed": 8000,
+        "speedTier": "high",
+        "sticks": 2,
+        "type": "desktop"
+      },
+      "bargainScore": 45,
+      "pricePerGB": 12.2,
+      "location": "Turku",
+      "date": "",
+      "toridiili": false
+    },
+    {
+      "title": "Kingston DDR5 1x16GB",
+      "price": 160,
+      "url": "https://www.tori.fi/recommerce/forsale/item/34575919",
+      "specs": {
+        "capacityGB": 16,
+        "speed": null,
+        "speedTier": "base",
+        "sticks": 1,
+        "type": "desktop"
+      },
+      "bargainScore": 45,
+      "pricePerGB": 10,
+      "location": "Nurmijärvi",
+      "date": "",
+      "toridiili": false
+    },
+    {
+      "title": "Corsair vengeance DDR5 6000MT/s CL36 2x16GB",
+      "price": 399,
+      "url": "https://www.tori.fi/recommerce/forsale/item/34208850",
+      "specs": {
+        "capacityGB": 32,
+        "speed": 6000,
+        "speedTier": "high",
+        "sticks": 2,
+        "type": "desktop"
+      },
+      "bargainScore": 45,
+      "pricePerGB": 12.5,
+      "location": "Espoo, Tuomarila",
+      "date": "",
+      "toridiili": true
+    },
+    {
+      "title": "CORSAIR VENGEANCE 32GB DDR5 2x16GB kit 6000mhz CL36 UUSI",
+      "price": 400,
+      "url": "https://www.tori.fi/recommerce/forsale/item/36734226",
+      "specs": {
+        "capacityGB": 32,
+        "speed": 6000,
+        "speedTier": "high",
+        "sticks": 2,
+        "type": "desktop"
+      },
+      "bargainScore": 45,
+      "pricePerGB": 12.5,
+      "location": "",
+      "date": "",
+      "toridiili": false
+    },
+    {
+      "title": "2pv käytetyt 16gb (2x8gb) ddr5 4800MHZ",
+      "price": 150,
+      "url": "https://www.tori.fi/recommerce/forsale/item/36666341",
+      "specs": {
+        "capacityGB": 16,
+        "speed": 4800,
+        "speedTier": "base",
+        "sticks": 2,
+        "type": "desktop"
+      },
+      "bargainScore": 45,
+      "pricePerGB": 9.4,
+      "location": "Tampere",
+      "date": "",
+      "toridiili": false
+    },
+    {
+      "title": "Corsair 64GB (2 x 32GB) Vengeance, DDR5 5200MHz, CL40, 1.25V, musta/harmaa",
+      "price": 500,
+      "url": "https://www.tori.fi/recommerce/forsale/item/36637885",
+      "specs": {
+        "capacityGB": 64,
+        "speed": 5200,
+        "speedTier": "base",
+        "sticks": 2,
+        "type": "desktop"
+      },
+      "bargainScore": 45,
+      "pricePerGB": 7.8,
+      "location": "Helsinki, Kannelmäki",
+      "date": "",
+      "toridiili": true
+    },
+    {
+      "title": "Kingston FURY Beast DDR5-6000mhz - 2x16GB - CL36 RGB (36-44-44 1.35V)",
+      "price": 400,
+      "url": "https://www.tori.fi/recommerce/forsale/item/36568855",
+      "specs": {
+        "capacityGB": 32,
+        "speed": 6000,
+        "speedTier": "high",
+        "sticks": 2,
+        "type": "desktop"
+      },
+      "bargainScore": 45,
+      "pricePerGB": 12.5,
+      "location": "Helsinki, Kallio",
+      "date": "",
+      "toridiili": true
+    },
+    {
+      "title": "Corsair 32GB (2 x 16GB) DDR5 6400MHz CL36 1.35V",
+      "price": 380,
+      "url": "https://www.tori.fi/recommerce/forsale/item/34015617",
+      "specs": {
+        "capacityGB": 32,
+        "speed": 6400,
+        "speedTier": "high",
+        "sticks": 2,
+        "type": "desktop"
+      },
+      "bargainScore": 45,
+      "pricePerGB": 11.9,
+      "location": "Tampere",
+      "date": "",
+      "toridiili": false
+    },
+    {
+      "title": "DDR5 SO-DIMM 64gb (2x32gb) 5600mhz",
+      "price": 500,
+      "url": "https://www.tori.fi/recommerce/forsale/item/36361545",
+      "specs": {
+        "capacityGB": 64,
+        "speed": 5600,
+        "speedTier": "mid",
+        "sticks": 2,
+        "type": "laptop"
+      },
+      "bargainScore": 45,
+      "pricePerGB": 7.8,
+      "location": "",
+      "date": "",
+      "toridiili": true
+    },
+    {
+      "title": "Kingston ValueRAM DDR5 5600 MHz CL46 32 Gt SO-DIMM -muistimoduli",
+      "price": 270,
+      "url": "https://www.tori.fi/recommerce/forsale/item/36343194",
+      "specs": {
+        "capacityGB": 32,
+        "speed": 5600,
+        "speedTier": "mid",
+        "sticks": null,
+        "type": "laptop"
+      },
+      "bargainScore": 45,
+      "pricePerGB": 8.4,
+      "location": "Espoo, Latokaski",
+      "date": "",
+      "toridiili": true
+    },
+    {
+      "title": "Kingston Technology FURY Beast 32GB 5200MT/s DDR5 CL40 DIMM RGB XMP",
+      "price": 275,
+      "url": "https://www.tori.fi/recommerce/forsale/item/36104084",
+      "specs": {
+        "capacityGB": 32,
+        "speed": 5200,
+        "speedTier": "base",
+        "sticks": null,
+        "type": "desktop"
+      },
+      "bargainScore": 45,
+      "pricePerGB": 8.6,
+      "location": "Helsinki, Kulosaari",
+      "date": "",
+      "toridiili": true
+    },
+    {
+      "title": "8gb Samsung DDR5 läppärin muisti",
+      "price": 50,
+      "url": "https://www.tori.fi/recommerce/forsale/item/35472976",
+      "specs": {
+        "capacityGB": 8,
+        "speed": null,
+        "speedTier": "base",
+        "sticks": null,
+        "type": "laptop"
+      },
+      "bargainScore": 45,
+      "pricePerGB": 6.3,
+      "location": "Espoo, Espoonlahti",
+      "date": "",
+      "toridiili": false
+    },
+    {
+      "title": "Kingston FURY Impact DDR5 5600 MHz CL40 SO-DIMM 32 Gt RAM muisti",
+      "price": 300,
+      "url": "https://www.tori.fi/recommerce/forsale/item/37287607",
+      "specs": {
+        "capacityGB": 32,
+        "speed": 5600,
+        "speedTier": "mid",
+        "sticks": null,
+        "type": "laptop"
+      },
+      "bargainScore": 35,
+      "pricePerGB": 9.4,
+      "location": "Helsinki, Jakomäki",
+      "date": "",
+      "toridiili": true
+    },
+    {
+      "title": "DDR5 RAM-muistit 16 Gt",
+      "price": 170,
+      "url": "https://www.tori.fi/recommerce/forsale/item/37230974",
+      "specs": {
+        "capacityGB": 16,
+        "speed": null,
+        "speedTier": "base",
+        "sticks": null,
+        "type": "desktop"
+      },
+      "bargainScore": 35,
+      "pricePerGB": 10.6,
+      "location": "Tampere",
+      "date": "",
+      "toridiili": true
+    },
+    {
+      "title": "Crucial RAM DDR5 SODIMM 1x32GB 5600MHz CL46",
+      "price": 300,
+      "url": "https://www.tori.fi/recommerce/forsale/item/37135093",
+      "specs": {
+        "capacityGB": 32,
+        "speed": 5600,
+        "speedTier": "mid",
+        "sticks": 1,
+        "type": "laptop"
+      },
+      "bargainScore": 35,
+      "pricePerGB": 9.4,
+      "location": "Turku",
+      "date": "",
+      "toridiili": false
+    },
+    {
+      "title": "Kingston FURY Impact 32 GB DDR5 RAM muisti 5600 MT/s CL40 (musta)",
+      "price": 380,
+      "url": "https://www.tori.fi/recommerce/forsale/item/34652359",
+      "specs": {
+        "capacityGB": 32,
+        "speed": 5600,
+        "speedTier": "mid",
+        "sticks": null,
+        "type": "desktop"
+      },
+      "bargainScore": 35,
+      "pricePerGB": 11.9,
+      "location": "Joensuu",
+      "date": "",
+      "toridiili": false
+    },
+    {
+      "title": "Corsair Vengeance DDR5 32GB RAM 6000MHz",
+      "price": 425,
+      "url": "https://www.tori.fi/recommerce/forsale/item/34441942",
+      "specs": {
+        "capacityGB": 32,
+        "speed": 6000,
+        "speedTier": "high",
+        "sticks": null,
+        "type": "desktop"
+      },
+      "bargainScore": 35,
+      "pricePerGB": 13.3,
+      "location": "Turku",
+      "date": "",
+      "toridiili": true
+    },
+    {
+      "title": "Kingston Fury Beast DDR5 RAM -muistimoduulit 2 x 16 GB",
+      "price": 320,
+      "url": "https://www.tori.fi/recommerce/forsale/item/35662332",
+      "specs": {
+        "capacityGB": 32,
+        "speed": null,
+        "speedTier": "base",
+        "sticks": 2,
+        "type": "desktop"
+      },
+      "bargainScore": 35,
+      "pricePerGB": 10,
+      "location": "Tampere",
+      "date": "",
+      "toridiili": false
+    },
+    {
+      "title": "Corsair DDR5 16GB RGB 6000Mhz CL30 1.4V RAM",
+      "price": 250,
+      "url": "https://www.tori.fi/recommerce/forsale/item/34890887",
+      "specs": {
+        "capacityGB": 16,
+        "speed": 6000,
+        "speedTier": "high",
+        "sticks": null,
+        "type": "desktop"
+      },
+      "bargainScore": 35,
+      "pricePerGB": 15.6,
+      "location": "Turku",
+      "date": "",
+      "toridiili": true
+    },
+    {
+      "title": "Kingston Fury DDR5 6000Mhz 2x16gb CL30 RGB",
+      "price": 430,
+      "url": "https://www.tori.fi/recommerce/forsale/item/37371693",
+      "specs": {
+        "capacityGB": 32,
+        "speed": 6000,
+        "speedTier": "high",
+        "sticks": 2,
+        "type": "desktop"
+      },
+      "bargainScore": 35,
+      "pricePerGB": 13.4,
+      "location": "Espoo, Saunalahti",
+      "date": "",
+      "toridiili": false
+    },
+    {
+      "title": "Avaamaton IRDM DDR5 32GB (2x16GB) 6000MHz CL30 – Uusi!",
+      "price": 440,
+      "url": "https://www.tori.fi/recommerce/forsale/item/37246232",
+      "specs": {
+        "capacityGB": 32,
+        "speed": 6000,
+        "speedTier": "high",
+        "sticks": 2,
+        "type": "desktop"
+      },
+      "bargainScore": 35,
+      "pricePerGB": 13.8,
+      "location": "Tampere",
+      "date": "",
+      "toridiili": false
+    },
+    {
+      "title": "Kingston FURY Beast DDR5-6000 - 64GB",
+      "price": 800,
+      "url": "https://www.tori.fi/recommerce/forsale/item/34167688",
+      "specs": {
+        "capacityGB": 64,
+        "speed": 6000,
+        "speedTier": "high",
+        "sticks": null,
+        "type": "desktop"
+      },
+      "bargainScore": 35,
+      "pricePerGB": 12.5,
+      "location": "Salo",
+      "date": "",
+      "toridiili": false
+    },
+    {
+      "title": "Adata DDR5 2x16GB",
+      "price": 320,
+      "url": "https://www.tori.fi/recommerce/forsale/item/34575495",
+      "specs": {
+        "capacityGB": 32,
+        "speed": null,
+        "speedTier": "base",
+        "sticks": 2,
+        "type": "desktop"
+      },
+      "bargainScore": 35,
+      "pricePerGB": 10,
+      "location": "Nurmijärvi",
+      "date": "",
+      "toridiili": false
+    },
+    {
+      "title": "Patriot Viper Xtreme5 DDR5 2x16Gb 8000Mhz",
+      "price": 450,
+      "url": "https://www.tori.fi/recommerce/forsale/item/36955446",
+      "specs": {
+        "capacityGB": 32,
+        "speed": 8000,
+        "speedTier": "high",
+        "sticks": 2,
+        "type": "desktop"
+      },
+      "bargainScore": 35,
+      "pricePerGB": 14.1,
+      "location": "Vantaa, Hämevaara",
+      "date": "",
+      "toridiili": false
+    },
+    {
+      "title": "Corsair Vengeance DDR5 6000 MHz CL36 16GB",
+      "price": 250,
+      "url": "https://www.tori.fi/recommerce/forsale/item/36417531",
+      "specs": {
+        "capacityGB": 16,
+        "speed": 6000,
+        "speedTier": "high",
+        "sticks": null,
+        "type": "desktop"
+      },
+      "bargainScore": 35,
+      "pricePerGB": 15.6,
+      "location": "Oulu",
+      "date": "",
+      "toridiili": true
+    },
+    {
+      "title": "G.Skill 32GB (2 x 16GB) Flare X5, DDR5 6000MHz, CL32, 1.35V, musta",
+      "price": 440,
+      "url": "https://www.tori.fi/recommerce/forsale/item/36395582",
+      "specs": {
+        "capacityGB": 32,
+        "speed": 6000,
+        "speedTier": "high",
+        "sticks": 2,
+        "type": "desktop"
+      },
+      "bargainScore": 35,
+      "pricePerGB": 13.8,
+      "location": "Helsinki, Laajasalo",
+      "date": "",
+      "toridiili": false
+    },
+    {
+      "title": "So-Dimm DDR5 5600 1x32GB",
+      "price": 320,
+      "url": "https://www.tori.fi/recommerce/forsale/item/35887952",
+      "specs": {
+        "capacityGB": 32,
+        "speed": 5600,
+        "speedTier": "mid",
+        "sticks": 1,
+        "type": "laptop"
+      },
+      "bargainScore": 35,
+      "pricePerGB": 10,
+      "location": "Lahti",
+      "date": "",
+      "toridiili": false
+    },
+    {
+      "title": "Kingston FURY Impact DDR5 64 Gt",
+      "price": 590,
+      "url": "https://www.tori.fi/recommerce/forsale/item/35657905",
+      "specs": {
+        "capacityGB": 64,
+        "speed": null,
+        "speedTier": "base",
+        "sticks": null,
+        "type": "desktop"
+      },
+      "bargainScore": 35,
+      "pricePerGB": 9.2,
+      "location": "Oulu",
+      "date": "",
+      "toridiili": true
+    },
+    {
+      "title": "Kingston Fury RAM-muisti KF556S40IB-16 DDR5 5600MT/s CL40-40-40 1.1v PnP 16 GB",
+      "price": 250,
+      "url": "https://www.tori.fi/recommerce/forsale/item/37301556",
+      "specs": {
+        "capacityGB": 16,
+        "speed": 5600,
+        "speedTier": "mid",
+        "sticks": null,
+        "type": "desktop"
+      },
+      "bargainScore": 25,
+      "pricePerGB": 15.6,
+      "location": "Tampere",
+      "date": "",
+      "toridiili": false
+    },
+    {
+      "title": "Kingston Fury 16Gt DDR5 Ram",
+      "price": 200,
+      "url": "https://www.tori.fi/recommerce/forsale/item/37206223",
+      "specs": {
+        "capacityGB": 16,
+        "speed": null,
+        "speedTier": "base",
+        "sticks": null,
+        "type": "desktop"
+      },
+      "bargainScore": 25,
+      "pricePerGB": 12.5,
+      "location": "Helsinki, Kaitalahti",
+      "date": "",
+      "toridiili": true
+    },
+    {
+      "title": "DDR5 2x8 GB 16 GB RAM 6000 MHz",
+      "price": 280,
+      "url": "https://www.tori.fi/recommerce/forsale/item/36440020",
+      "specs": {
+        "capacityGB": 16,
+        "speed": 6000,
+        "speedTier": "high",
+        "sticks": 2,
+        "type": "desktop"
+      },
+      "bargainScore": 25,
+      "pricePerGB": 17.5,
+      "location": "Tampere",
+      "date": "",
+      "toridiili": false
+    },
+    {
+      "title": "Corsair Vengeance DDR5 32 GB 36 CL 1.35V RAM",
+      "price": 350,
+      "url": "https://www.tori.fi/recommerce/forsale/item/36369382",
+      "specs": {
+        "capacityGB": 32,
+        "speed": null,
+        "speedTier": "base",
+        "sticks": null,
+        "type": "desktop"
+      },
+      "bargainScore": 25,
+      "pricePerGB": 10.9,
+      "location": "Espoo, Otaniemi",
+      "date": "",
+      "toridiili": true
+    },
+    {
+      "title": "Corsair Vengeance RGB 48Gb RAM DDR5-6400 CL36 dual",
+      "price": 750,
+      "url": "https://www.tori.fi/recommerce/forsale/item/35748737",
+      "specs": {
+        "capacityGB": 48,
+        "speed": 6400,
+        "speedTier": "high",
+        "sticks": null,
+        "type": "desktop"
+      },
+      "bargainScore": 25,
+      "pricePerGB": 15.6,
+      "location": "Vantaa, Kivistö",
+      "date": "",
+      "toridiili": false
+    },
+    {
+      "title": "Corsair 64GB (2 x 32GB) Dominator Platinum RGB, DDR5 6600MHz, CL32, 1.40V, musta",
+      "price": 900,
+      "url": "https://www.tori.fi/recommerce/forsale/item/37359314",
+      "specs": {
+        "capacityGB": 64,
+        "speed": 6600,
+        "speedTier": "high",
+        "sticks": 2,
+        "type": "desktop"
+      },
+      "bargainScore": 25,
+      "pricePerGB": 14.1,
+      "location": "Hyvinkää",
+      "date": "",
+      "toridiili": true
+    },
+    {
+      "title": "Kingston FURY Beast DDR5-5600 - 16GB - CL36",
+      "price": 240,
+      "url": "https://www.tori.fi/recommerce/forsale/item/37278314",
+      "specs": {
+        "capacityGB": 16,
+        "speed": 5600,
+        "speedTier": "mid",
+        "sticks": null,
+        "type": "desktop"
+      },
+      "bargainScore": 25,
+      "pricePerGB": 15,
+      "location": "Helsinki, Puotila",
+      "date": "",
+      "toridiili": true
+    },
+    {
+      "title": "Kingston 32GB DDR5 5600MHz SO-DIMM",
+      "price": 340,
+      "url": "https://www.tori.fi/recommerce/forsale/item/35569447",
+      "specs": {
+        "capacityGB": 32,
+        "speed": 5600,
+        "speedTier": "mid",
+        "sticks": null,
+        "type": "laptop"
+      },
+      "bargainScore": 25,
+      "pricePerGB": 10.6,
+      "location": "Oulu",
+      "date": "",
+      "toridiili": false
+    },
+    {
+      "title": "Kingston Fury Beast DDR5 32gb RAM kit",
+      "price": 399,
+      "url": "https://www.tori.fi/recommerce/forsale/item/37290824",
+      "specs": {
+        "capacityGB": 32,
+        "speed": null,
+        "speedTier": "base",
+        "sticks": null,
+        "type": "desktop"
+      },
+      "bargainScore": 10,
+      "pricePerGB": 12.5,
+      "location": "Porvoo, Kulloonkylä",
+      "date": "",
+      "toridiili": false
+    },
+    {
+      "title": "DDR5 RAM 16GB 4800MHz Micron Notebook SO DIMM 262pin for Laptop",
+      "price": 180,
+      "url": "https://www.tori.fi/recommerce/forsale/item/25854670",
+      "specs": {
+        "capacityGB": 16,
+        "speed": 4800,
+        "speedTier": "base",
+        "sticks": null,
+        "type": "laptop"
+      },
+      "bargainScore": 10,
+      "pricePerGB": 11.3,
+      "location": "Joensuu",
+      "date": "",
+      "toridiili": false
+    },
+    {
+      "title": "Kingston Fury Beast 16gb DDR5 RAM-muisti KF560C36BBEK2-32",
+      "price": 210,
+      "url": "https://www.tori.fi/recommerce/forsale/item/34493719",
+      "specs": {
+        "capacityGB": 16,
+        "speed": null,
+        "speedTier": "base",
+        "sticks": null,
+        "type": "desktop"
+      },
+      "bargainScore": 10,
+      "pricePerGB": 13.1,
+      "location": "Vantaa, Ylästö",
+      "date": "",
+      "toridiili": true
+    },
+    {
+      "title": "Corsair Vengeance DDR5 32 GB RAM",
+      "price": 420,
+      "url": "https://www.tori.fi/recommerce/forsale/item/36865387",
+      "specs": {
+        "capacityGB": 32,
+        "speed": null,
+        "speedTier": "base",
+        "sticks": null,
+        "type": "desktop"
+      },
+      "bargainScore": 10,
+      "pricePerGB": 13.1,
+      "location": "Vantaa, Koivukylä",
+      "date": "",
+      "toridiili": true
+    },
+    {
+      "title": "DDR5 16 GB (2X8) Laptop RAM 5600mhz",
+      "price": 240,
+      "url": "https://www.tori.fi/recommerce/forsale/item/36703020",
+      "specs": {
+        "capacityGB": 16,
+        "speed": 5600,
+        "speedTier": "mid",
+        "sticks": null,
+        "type": "laptop"
+      },
+      "bargainScore": 10,
+      "pricePerGB": 15,
+      "location": "Turku",
+      "date": "",
+      "toridiili": false
+    },
+    {
+      "title": "G.Skill Trident Z5 RGB DDR5 RAM-muistit 48 Gt (2x24 Gt) valkoinen",
+      "price": 550,
+      "url": "https://www.tori.fi/recommerce/forsale/item/36604368",
+      "specs": {
+        "capacityGB": 48,
+        "speed": null,
+        "speedTier": "base",
+        "sticks": 2,
+        "type": "desktop"
+      },
+      "bargainScore": 10,
+      "pricePerGB": 11.5,
+      "location": "Oulu",
+      "date": "",
+      "toridiili": true
+    },
+    {
+      "title": "Corsair Vengeance DDR5 32GB RAM-muistit",
+      "price": 400,
+      "url": "https://www.tori.fi/recommerce/forsale/item/36540570",
+      "specs": {
+        "capacityGB": 32,
+        "speed": null,
+        "speedTier": "base",
+        "sticks": null,
+        "type": "desktop"
+      },
+      "bargainScore": 10,
+      "pricePerGB": 12.5,
+      "location": "Helsinki, Keskusta",
+      "date": "",
+      "toridiili": false
+    },
+    {
+      "title": "Crucial DDR5 Pro oc RAM-muistit 32GB",
+      "price": 550,
+      "url": "https://www.tori.fi/recommerce/forsale/item/36396812",
+      "specs": {
+        "capacityGB": 32,
+        "speed": null,
+        "speedTier": "base",
+        "sticks": null,
+        "type": "desktop"
+      },
+      "bargainScore": 10,
+      "pricePerGB": 17.2,
+      "location": "Turku",
+      "date": "",
+      "toridiili": true
+    },
+    {
+      "title": "64GB DDR5 Corsair Dominator Platinum RGB RAM-muistit",
+      "price": 725,
+      "url": "https://www.tori.fi/recommerce/forsale/item/36128480",
+      "specs": {
+        "capacityGB": 64,
+        "speed": null,
+        "speedTier": "base",
+        "sticks": null,
+        "type": "desktop"
+      },
+      "bargainScore": 10,
+      "pricePerGB": 11.3,
+      "location": "Tampere",
+      "date": "",
+      "toridiili": true
+    },
+    {
+      "title": "Corsair RGB 32gb ddr5 ram-muisti",
+      "price": 385,
+      "url": "https://www.tori.fi/recommerce/forsale/item/36004091",
+      "specs": {
+        "capacityGB": 32,
+        "speed": null,
+        "speedTier": "base",
+        "sticks": null,
+        "type": "desktop"
+      },
+      "bargainScore": 10,
+      "pricePerGB": 12,
+      "location": "",
+      "date": "",
+      "toridiili": true
+    },
+    {
+      "title": "Corsair Vengeance SODIMM DDR5 RAM-muisti 32GB (2x 16GB) 4800MHz",
+      "price": 369,
+      "url": "https://www.tori.fi/recommerce/forsale/item/35987213",
+      "specs": {
+        "capacityGB": 32,
+        "speed": 4800,
+        "speedTier": "base",
+        "sticks": 2,
+        "type": "laptop"
+      },
+      "bargainScore": 10,
+      "pricePerGB": 11.5,
+      "location": "Helsinki, Viikki",
+      "date": "",
+      "toridiili": true
+    },
+    {
+      "title": "Kingston Fury RAM-muistit (SO-DIMM DDR5 LÄPPÄREIHIN, 32gb ja 64gb)",
+      "price": 1100,
+      "url": "https://www.tori.fi/recommerce/forsale/item/35418137",
+      "specs": {
+        "capacityGB": 32,
+        "speed": null,
+        "speedTier": "base",
+        "sticks": null,
+        "type": "laptop"
+      },
+      "bargainScore": 10,
+      "pricePerGB": 34.4,
+      "location": "Lahti",
+      "date": "",
+      "toridiili": false
+    },
+    {
+      "title": "Kingston DDR5 32GB ECC Server Premier RAM",
+      "price": 550,
+      "url": "https://www.tori.fi/recommerce/forsale/item/35389322",
+      "specs": {
+        "capacityGB": 32,
+        "speed": null,
+        "speedTier": "base",
+        "sticks": null,
+        "type": "desktop"
+      },
+      "bargainScore": 10,
+      "pricePerGB": 17.2,
+      "location": "Vantaa, Jokiniemi",
+      "date": "",
+      "toridiili": false
+    },
+    {
+      "title": "8Gt DDR5 4800MHz So-Dimm muistikampa",
+      "price": 65,
+      "url": "https://www.tori.fi/recommerce/forsale/item/37248953",
+      "specs": {
+        "capacityGB": 8,
+        "speed": 4800,
+        "speedTier": "base",
+        "sticks": null,
+        "type": "laptop"
+      },
+      "bargainScore": 10,
+      "pricePerGB": 8.1,
+      "location": "Lohja",
+      "date": "",
+      "toridiili": false
+    },
+    {
+      "title": "2x 96gb hynix ECC DDR5 2Rx4 5600MHz PC5-44800 RDIMM",
+      "price": 3000,
+      "url": "https://www.tori.fi/recommerce/forsale/item/32993516",
+      "specs": {
+        "capacityGB": 192,
+        "speed": 5600,
+        "speedTier": "mid",
+        "sticks": 2,
+        "type": "desktop"
+      },
+      "bargainScore": 10,
+      "pricePerGB": 15.6,
+      "location": "Vantaa, Jokiniemi",
+      "date": "",
+      "toridiili": false
+    },
+    {
+      "title": "96GB Corsair Vengeance RGB, DDR5",
+      "price": 1200,
+      "url": "https://www.tori.fi/recommerce/forsale/item/34718217",
+      "specs": {
+        "capacityGB": 96,
+        "speed": null,
+        "speedTier": "base",
+        "sticks": null,
+        "type": "desktop"
+      },
+      "bargainScore": 10,
+      "pricePerGB": 12.5,
+      "location": "Vantaa, Tikkurila",
+      "date": "",
+      "toridiili": true
+    },
+    {
+      "title": "Corsair Dominator Platinum 32GB (16x2) DDR5 keskusmuistit",
+      "price": 425,
+      "url": "https://www.tori.fi/recommerce/forsale/item/37188155",
+      "specs": {
+        "capacityGB": 32,
+        "speed": null,
+        "speedTier": "base",
+        "sticks": null,
+        "type": "desktop"
+      },
+      "bargainScore": 10,
+      "pricePerGB": 13.3,
+      "location": "Nurmijärvi",
+      "date": "",
+      "toridiili": true
+    },
+    {
+      "title": "Corsair Vengeance RGB DDR5 6400 MHz CL32 32 Gt",
+      "price": 750,
+      "url": "https://www.tori.fi/recommerce/forsale/item/36939797",
+      "specs": {
+        "capacityGB": 32,
+        "speed": 6400,
+        "speedTier": "high",
+        "sticks": null,
+        "type": "desktop"
+      },
+      "bargainScore": 10,
+      "pricePerGB": 23.4,
+      "location": "Helsinki, Viikki",
+      "date": "",
+      "toridiili": false
+    },
+    {
+      "title": "Kingston FURY Impact DDR5 5600 MHz CL40 SO-DIMM 32 Gt",
+      "price": 400,
+      "url": "https://www.tori.fi/recommerce/forsale/item/36884733",
+      "specs": {
+        "capacityGB": 32,
+        "speed": 5600,
+        "speedTier": "mid",
+        "sticks": null,
+        "type": "laptop"
+      },
+      "bargainScore": 10,
+      "pricePerGB": 12.5,
+      "location": "Helsinki, Kamppi",
+      "date": "",
+      "toridiili": true
+    },
+    {
+      "title": "2 x 32Gb DDR5 muistit",
+      "price": 800,
+      "url": "https://www.tori.fi/recommerce/forsale/item/36780101",
+      "specs": {
+        "capacityGB": 64,
+        "speed": null,
+        "speedTier": "base",
+        "sticks": 2,
+        "type": "desktop"
+      },
+      "bargainScore": 10,
+      "pricePerGB": 12.5,
+      "location": "Turku",
+      "date": "",
+      "toridiili": true
+    },
+    {
+      "title": "Kingston FURY Beast 16GB (2 x 8GB) DDR5",
+      "price": 240,
+      "url": "https://www.tori.fi/recommerce/forsale/item/35819096",
+      "specs": {
+        "capacityGB": 16,
+        "speed": null,
+        "speedTier": "base",
+        "sticks": 2,
+        "type": "desktop"
+      },
+      "bargainScore": 10,
+      "pricePerGB": 15,
+      "location": "Rovaniemi",
+      "date": "",
+      "toridiili": true
+    },
+    {
+      "title": "DDR5 5600 16GB SODIMM 2kpl",
+      "price": 300,
+      "url": "https://www.tori.fi/recommerce/forsale/item/35793926",
+      "specs": {
+        "capacityGB": 16,
+        "speed": 5600,
+        "speedTier": "mid",
+        "sticks": null,
+        "type": "laptop"
+      },
+      "bargainScore": 10,
+      "pricePerGB": 18.8,
+      "location": "",
+      "date": "",
+      "toridiili": true
+    },
+    {
+      "title": "DDR5 32Gb",
+      "price": 400,
+      "url": "https://www.tori.fi/recommerce/forsale/item/35585052",
+      "specs": {
+        "capacityGB": 32,
+        "speed": null,
+        "speedTier": "base",
+        "sticks": null,
+        "type": "desktop"
+      },
+      "bargainScore": 10,
+      "pricePerGB": 12.5,
+      "location": "Nurmijärvi",
+      "date": "",
+      "toridiili": true
+    },
+    {
+      "title": "Kingston FURY Beast 32 Gt (2 x 16 Gt) DDR5 6000 MHz, CL30",
+      "price": 650,
+      "url": "https://www.tori.fi/recommerce/forsale/item/35537231",
+      "specs": {
+        "capacityGB": 32,
+        "speed": 6000,
+        "speedTier": "high",
+        "sticks": 2,
+        "type": "desktop"
+      },
+      "bargainScore": 10,
+      "pricePerGB": 20.3,
+      "location": "Jyväskylä",
+      "date": "",
+      "toridiili": true
+    },
+    {
+      "title": "G.Skill DDR5-6000 - 64GB - CL30",
+      "price": 950,
+      "url": "https://www.tori.fi/recommerce/forsale/item/35468510",
+      "specs": {
+        "capacityGB": 64,
+        "speed": 6000,
+        "speedTier": "high",
+        "sticks": null,
+        "type": "desktop"
+      },
+      "bargainScore": 10,
+      "pricePerGB": 14.8,
+      "location": "Vantaa, Päiväkumpu",
+      "date": "",
+      "toridiili": false
+    }
+  ]
+}

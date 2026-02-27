@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="DDR5 RAM Bargain Agent — Find the best deals on DDR5 memory on Tori.fi">
+  <title>DDR5 Bargain Agent — Tori.fi Scanner</title>
+  <link rel="stylesheet" href="index.css">
+</head>
+
+<body>
+  <div class="app" id="app">
+
+    <!-- Header -->
+    <header class="header">
+      <div class="header__badge">
+        <span class="pulse"></span>
+        Tori.fi Agent
+      </div>
+      <h1 class="header__title">DDR5 Bargain Hunter</h1>
+      <p class="header__subtitle">Scans Tori.fi for DDR5 RAM listings and surfaces the best deals using market-aware
+        pricing</p>
+    </header>
+
+    <!-- Controls -->
+    <div class="controls" id="controls">
+      <div class="controls__left">
+        <button class="btn-scan" id="btnScan" onclick="runScan()">
+          <span class="icon">⟳</span>
+          <span class="label">Scan Tori.fi</span>
+        </button>
+
+        <div class="stats" id="stats" style="display: none;">
+          <div class="stat-pill">
+            Total: <span class="value" id="statTotal">0</span>
+          </div>
+          <div class="stat-pill bargains">
+            Bargains: <span class="value" id="statBargains">0</span>
+          </div>
+          <div class="stat-pill">
+            Avg €/GB: <span class="value" id="statAvgPpgb">—</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="controls__right">
+        <select class="select-control" id="filterCapacity" onchange="applyFilters()">
+          <option value="all">All Capacities</option>
+          <option value="8">8 GB</option>
+          <option value="16">16 GB</option>
+          <option value="32">32 GB</option>
+          <option value="48">48 GB</option>
+          <option value="64">64 GB</option>
+        </select>
+        <select class="select-control" id="filterFormFactor" onchange="applyFilters()">
+          <option value="all">All Form Factors</option>
+          <option value="dimm">DIMM (Desktop)</option>
+          <option value="sodimm">SO-DIMM (Laptop)</option>
+        </select>
+        <select class="select-control" id="sortBy" onchange="applyFilters()">
+          <option value="bargain-desc">Best Bargains First</option>
+          <option value="price-asc">Price: Low → High</option>
+          <option value="price-desc">Price: High → Low</option>
+          <option value="ppgb-asc">€/GB: Low → High</option>
+          <option value="date-desc">Newest First</option>
+        </select>
+      </div>
+    </div>
+
+    <!-- Loading State -->
+    <div class="loading-overlay" id="loading">
+      <div class="loading-spinner"></div>
+      <div class="loading-text" id="loadingText">Scanning Tori.fi for DDR5 RAM listings…</div>
+      <div class="loading-progress">
+        <div class="loading-progress__bar" id="loadingBar"></div>
+      </div>
+    </div>
+
+    <!-- Results -->
+    <div class="results empty-state" id="results">
+      <div class="empty-icon">🔍</div>
+      <div class="empty-title">Ready to hunt for bargains</div>
+      <div class="empty-text">Click "Scan Tori.fi" to search for DDR5 RAM listings, or load saved results</div>
+    </div>
+
+    <!-- Auto-Offer Panel -->
+    <div class="offer-panel" id="offerPanel" style="display: none;">
+      <div class="offer-panel__header">
+        <div>
+          <h2 class="offer-panel__title">💬 Auto-Offer Agent</h2>
+          <p class="offer-panel__desc">Send lowball offers to sellers in Helsinki metro area</p>
+        </div>
+        <button class="btn-close" onclick="toggleOfferPanel()">&times;</button>
+      </div>
+
+      <div class="offer-panel__config">
+        <div class="config-row">
+          <label class="config-label">Message Template</label>
+          <textarea class="config-textarea" id="offerTemplate"
+            rows="3">Moi! Kiinnostuin ilmoituksestasi. Olisiko {offer_price}€ mahdollinen hinta? Voin noutaa pääkaupunkiseudulta. Kiitos!</textarea>
+          <span class="config-hint">Use <code>{offer_price}</code> for the offer amount, <code>{title}</code> for
+            listing title</span>
+        </div>
+        <div class="config-actions">
+          <button class="btn-generate" onclick="generateOffers()">
+            <span class="icon">⚡</span> Generate Offers
+          </button>
+          <div class="config-info" id="offerInfo"></div>
+        </div>
+      </div>
+
+      <div class="offer-table-wrap" id="offerTableWrap" style="display: none;">
+        <table class="offer-table">
+          <thead>
+            <tr>
+              <th><input type="checkbox" id="offerSelectAll" onchange="toggleAllOffers(this.checked)" checked></th>
+              <th>Listing</th>
+              <th>Location</th>
+              <th>Asking</th>
+              <th>Offer</th>
+              <th>Discount</th>
+              <th>Status</th>
+            </tr>
+          </thead>
+          <tbody id="offerTableBody"></tbody>
+        </table>
+
+        <div class="offer-actions">
+          <span class="offer-count" id="offerCount">0 offers selected</span>
+          <div style="display:flex;gap:0.5rem;">
+            <button class="btn-generate" onclick="downloadOffers()">
+              <span class="icon">📤</span> Export JSON
+            </button>
+            <button class="btn-send-offers" id="btnSendOffers" onclick="saveOffersAndSend()">
+              <span class="icon">🚀</span> Send Offers Now
+            </button>
+          </div>
+        </div>
+
+        <!-- Sending Progress Log -->
+        <div class="sending-log" id="sendingLog" style="display:none;">
+          <div class="sending-log__header">
+            <span class="sending-log__title">📡 Sending Progress</span>
+            <span class="sending-log__status" id="sendingStatus">Preparing...</span>
+          </div>
+          <div class="sending-log__entries" id="sendingEntries"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- API Messaging Panel -->
+    <div class="offer-panel mass-msg-panel" id="apiPanel" style="display: none;">
+      <div class="offer-panel__header">
+        <div>
+          <h2 class="offer-panel__title">⚡ Mass Search & Message API</h2>
+          <p class="offer-panel__desc">Directly search and message anyone on Tori.fi (uses your session cookie)</p>
+        </div>
+        <button class="btn-close" onclick="toggleApiPanel()">&times;</button>
+      </div>
+
+      <!-- Settings / Cookies -->
+      <div class="api-settings">
+        <details>
+          <summary>⚙️ API Settings (Cookies required)</summary>
+          <div class="config-row" style="margin-top: 1rem;">
+            <label class="config-label">User ID</label>
+            <input type="text" id="apiUserId" class="config-input" placeholder="e.g. 2051506126" />
+          </div>
+          <div class="config-row">
+            <label class="config-label">Session Cookie</label>
+            <textarea id="apiCookie" class="config-textarea" rows="2" placeholder="Paste your Tori.fi cookie string here..."></textarea>
+          </div>
+          <button class="btn-generate" onclick="saveApiConfigForm()">Save Settings</button>
+          <span id="apiConfigStatus" style="margin-left:1rem;color:var(--accent-emerald);"></span>
+        </details>
+      </div>
+
+      <hr style="border: 0; border-top: 1px solid var(--border); margin: var(--space-lg) 0;" />
+
+      <!-- Search Form -->
+      <div class="api-search-form">
+        <div style="display: flex; gap: 1rem; flex-wrap: wrap;">
+          <div class="config-row" style="flex: 2; min-width: 200px;">
+            <label class="config-label">Search Query</label>
+            <input type="text" id="apiSearchQuery" class="config-input" placeholder="e.g. iPhone 13, Macbook..." onkeydown="if(event.key==='Enter') runApiSearch()" />
+          </div>
+          <div class="config-row" style="flex: 1; min-width: 150px;">
+            <label class="config-label">Location</label>
+            <input type="text" id="apiSearchLocation" class="config-input" placeholder="e.g. Uusimaa" onkeydown="if(event.key==='Enter') runApiSearch()" />
+          </div>
+          <div class="config-row" style="flex: 1; min-width: 100px;">
+            <label class="config-label">Limit</label>
+            <input type="number" id="apiSearchLimit" class="config-input" value="10" min="1" max="100" />
+          </div>
+        </div>
+        <button class="btn-scan" id="btnApiSearch" onclick="runApiSearch()" style="margin-bottom: var(--space-sm);">
+          <span class="icon">🔍</span> <span class="label">Search Tori.fi</span>
+        </button>
+      </div>
+
+      <!-- Search Results -->
+      <div class="offer-table-wrap" id="apiResultsWrap" style="display: none;">
+        <table class="offer-table">
+          <thead>
+            <tr>
+              <th><input type="checkbox" id="apiSelectAll" onchange="toggleAllApiResults(this.checked)" checked></th>
+              <th>Product</th>
+              <th>Price</th>
+              <th>Location</th>
+              <th>Time</th>
+            </tr>
+          </thead>
+          <tbody id="apiResultsBody"></tbody>
+        </table>
+        
+        <div class="config-row" style="margin-top: 1.5rem;">
+          <label class="config-label">Message Template</label>
+          <textarea class="config-textarea" id="apiMessageTemplate" rows="2">Hei! Olen kiinnostunut {query}-ilmoituksestasi. Onko tämä vielä vapaana ja mikä on tiukka hinta noudolla?</textarea>
+          <span class="config-hint">Use <code>{query}</code> for the search term, <code>{title}</code> for listing title</span>
+        </div>
+
+        <div class="offer-actions">
+          <span class="offer-count" id="apiSelectedCount">0 items selected</span>
+          <button class="btn-send-offers" id="btnSendApi" onclick="sendApiMessages()">
+            <span class="icon">🚀</span> Send Messages via API
+          </button>
+        </div>
+
+        <!-- Sending Progress Log -->
+        <div class="sending-log" id="apiSendingLog" style="display:none;">
+          <div class="sending-log__header">
+            <span class="sending-log__title">📡 API Sending Progress</span>
+            <span class="sending-log__status" id="apiSendingStatus">Preparing...</span>
+          </div>
+          <div class="sending-log__entries" id="apiSendingEntries"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Offer Toggle Button (floating right) -->
+    <button class="btn-offer-toggle" id="btnOfferToggle" onclick="toggleOfferPanel()" style="display: none;">
+      💬 Auto-Offer
+    </button>
+    
+    <!-- Mass Message Toggle Button (floating left) -->
+    <button class="btn-api-toggle" id="btnApiToggle" onclick="toggleApiPanel()">
+      ⚡ Mass Search & Message
+    </button>
+
+    <!-- Footer -->
+    <footer class="app-footer">
+      <p>DDR5 Bargain Agent &middot; Data from <a href="https://www.tori.fi" target="_blank" rel="noopener">Tori.fi</a>
+        &middot; Prices in EUR (€)</p>
+    </footer>
+
+  </div>
+
+  <!-- Toast Notification -->
+  <div class="toast" id="toast"></div>
+
+  <script src="agent.js"></script>
+</body>
+
+</html>
